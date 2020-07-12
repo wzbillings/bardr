@@ -2,8 +2,7 @@ Package: bardr
 Type: Package
 Title: Complete Works of William Shakespeare text data
 Version: 0.0.9
-Author: person("Zane", "Billings", email = "wz.billings@gmail.com",
-                role = c("aut", "cre"))
+Author: person("Zane", "Billings", email = "wz.billings@gmail.com", role = c("aut", "cre"))
 Maintainer: Zane Billings <wz.billings@gmail.com>
 Description: Provides R data structures for each of Shakespeare's works, as well
         as for the complete collection, as provided by Project Gutenberg.
