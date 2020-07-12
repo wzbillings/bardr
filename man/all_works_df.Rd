@@ -23,4 +23,8 @@ all_works_df
 A dataframe containing the full text of all of the complete works of William
 Shakespeare, as provided by Project Gutenberg.
 }
+\examples{
+works <- bardr::all_works_df
+subset(works, works$genre == "History")
+}
 \keyword{datasets}

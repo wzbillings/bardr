@@ -11,6 +11,10 @@
 #'   \item{genre}{whether the work is poetry, history, comedy, or tragedy}
 #' }
 #' @source \url{http://www.gutenberg.org/files/100/100-0.txt}
+#'
+#' @examples
+#' works <- bardr::all_works_df
+#' subset(works, works$genre == "History")
 "all_works_df"
 
 #' Contents of Complete Works of William Shakespeare (list)

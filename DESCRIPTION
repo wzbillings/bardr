@@ -1,6 +1,6 @@
 Package: bardr
 Type: Package
-Title: Complete Works of William Shakespeare text data
+Title: Complete Works of William Shakespeare in R
 Version: 0.0.9
 Authors@R: person("Zane", "Billings", email = "wz.billings@gmail.com", role = c("aut", "cre"))
 Maintainer: Zane Billings <wz.billings@gmail.com>
