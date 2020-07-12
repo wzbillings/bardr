@@ -19,7 +19,7 @@ library(usethis)
 
 # Import the raw text
 raw_text <- readLines(here::here("data-raw", "raw-text.txt"))
-
+raw_text <- stringi::stri_enc_toascii(raw_text)
 # Extract the list of works from the complete raw text file.
 # This will give the "complete"/"long" names for the plays that are
 #  used to label each of the works in the collection.
