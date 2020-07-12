@@ -5,7 +5,7 @@
 \alias{a_midsummer_nights_dream}
 \title{Text of A Midsummer Night's Dream}
 \format{
-A character vector of length 3460.
+A character vector of length 3460. Each line is <= 70 characters.
 }
 \source{
 \url{http://www.gutenberg.org/files/100/100-0.txt}
@@ -14,7 +14,8 @@ A character vector of length 3460.
 a_midsummer_nights_dream
 }
 \description{
-A character vector containing the complete text of A Midsummer Night's Dream
-by William Shakespeare. Each line is <= 70 characters.
+A character vector containing the complete text of:
+A Midsummer Night's Dream
+by William Shakespeare.
 }
 \keyword{datasets}
