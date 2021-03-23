@@ -26,12 +26,3 @@
 #' containing the full text of a work, given in the element name.
 #' @source \url{http://www.gutenberg.org/files/100/100-0.txt}
 "all_works_list"
-
-#' Project Gutenberg preface to Shakespeare's Complete Works
-#'
-#' A character vector containing all text before the beginning of the actual
-#' text of the work.
-#'
-#' @format A character vector of length 45.
-#'
-#' @source \url{http://www.gutenberg.org/files/100/100-0.txt}

@@ -1,4 +1,4 @@
-#' bardr: providing the complete works of the Bard to R users
+#' bardr: providing the complete works of the Bard in tidy format.
 #'
 #' The bardr package provides R data structures for all of William
 #' Shakespeare's works available in the Project Gutenberg ebook. The provided

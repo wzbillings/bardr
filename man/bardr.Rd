@@ -3,7 +3,7 @@
 \docType{package}
 \name{bardr}
 \alias{bardr}
-\title{bardr: providing the complete works of the Bard to R users}
+\title{bardr: providing the complete works of the Bard in tidy format.}
 \description{
 The bardr package provides R data structures for all of William
 Shakespeare's works available in the Project Gutenberg ebook. The provided
