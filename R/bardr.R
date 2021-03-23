@@ -19,10 +19,6 @@
 #' as many times as there are lines of content) and a column for the content
 #' of the work, where each cell in the content column is one line of text.
 #'
-#' @section Individual works:
-#' Each individual work from the collection is available unedited as a
-#' character vector, where each entry in the vector is a line of text.
-#'
 #' @docType package
 #' @name bardr
 NULL
