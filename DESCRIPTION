@@ -1,11 +1,11 @@
 Package: bardr
 Type: Package
-Title: Complete Works of William Shakespeare in R
+Title: Complete Works of William Shakespeare in Tidy Format
 Version: 0.0.9
 Authors@R: person("Zane", "Billings", email = "wz.billings@gmail.com", role = c("aut", "cre"))
 Maintainer: Zane Billings <wz.billings@gmail.com>
-Description: Provides R data structures for each of Shakespeare's works, as well
-        as for the complete collection, as provided by Project Gutenberg.
+Description: Provides R data structures for Shakespeare's complete works, 
+  as provided by Project Gutenberg <https:https://www.gutenberg.org/ebooks/100>.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
