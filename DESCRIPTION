@@ -5,7 +5,7 @@ Version: 0.0.9
 Authors@R: person("Zane", "Billings", email = "wz.billings@gmail.com", role = c("aut", "cre"))
 Maintainer: Zane Billings <wz.billings@gmail.com>
 Description: Provides R data structures for Shakespeare's complete works, 
-  as provided by Project Gutenberg <https:https://www.gutenberg.org/ebooks/100>.
+  as provided by Project Gutenberg <https:www.gutenberg.org/ebooks/100>.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
