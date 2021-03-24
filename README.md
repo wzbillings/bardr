@@ -16,18 +16,10 @@ vector.
 ## Quick-Start Guide
 
 Getting started with **bardr** is easy! Just install the package (currently
-by using `devtools::install_github()`, hopefully the package will be on CRAN
-soon, though). Then, you can access any of the included data sources like so:
-`works <- bardr::all_works_df`
-or any of the other files.
+by using `devtools::install_github()`. Or `install.packages("bardr")` for current CRAN version. Then, you can access any of the included data sources like so:
+`works <- bardr::all_works_df` for dataframe format or `works <- bardr::all_works_list` for list format.
 
 ## Data Sources with all works
 
 * `all_works_df`: a tidy dataframe containing all works.
 * `all_works_list`: a named list containing all works.
-
-## Data source names for specific works
-
-Every work included in the Project Gutenberg collection of Shakespeare's
-Complete Works has a dedicated individual data source. The naming convention is
-snake case (all_lower_case_with_underscores) and no punctuation.
