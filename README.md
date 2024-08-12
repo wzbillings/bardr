@@ -1,6 +1,7 @@
 # bardr: Shakespeare's Complete Works for R
 
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bardr)](https://cran.r-project.org/package=bardr)
+<!--[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bardr)](https://cran.r-project.org/package=bardr)-->
+[![](https://www.r-pkg.org/badges/version/bardr)](https://cran.r-project.org/package=bardr)
 
 Have you ever felt that the R programming language suffered from a critical
 lack of the Bard? Well, worry no more.
